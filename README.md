@@ -1,4 +1,8 @@
 # Fitting Poisson  distribution
+
+## NAME: AKASH PRAKASH
+## REG NO: 212224240008
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
